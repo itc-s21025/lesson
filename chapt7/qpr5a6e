@@ -1,0 +1,3 @@
+coms = ("A. Development", "Friends", "Always sunny")
+for shoe in coms:
+    print(show)
