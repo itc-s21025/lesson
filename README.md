@@ -1,2 +1,2 @@
 # lesson
-sshでに段階認証
+sshでに段階認matatatatata証
